@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
         <Routes>
-          <Route path="/" element={<FirstCase />} />
+          <Route path="/" element={<FirstCase/>} />
         </Routes>
     </Router>
   );
